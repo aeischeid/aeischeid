@@ -9,4 +9,4 @@ _/    _\\__,_|_|  \___/ _|  _|
 
 ### the fewest of details
 - 👨‍💻 Full stack senior engineer
-- 🌱 I’m currently doing a lot of ReactNative and Svelte
+- 🌱 I’m currently doing a lot of React but I sure do like Svelte
