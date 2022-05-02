@@ -2,11 +2,11 @@ They call me
 
 ```
     \                          
-   _ \    _` |  __| _ \  __ \  
+   _ \    _` |  __/ _ \   __ \  
   ___ \  (   | |   (   | |   | 
 _/    _\\__,_|_|  \___/ _|  _| 
 ```
 
 ### the fewest of details
 - 👨‍💻 Full stack senior engineer
-- 🌱 I’m currently doing a lot of React but I sure do like Svelte
+- 🌱 I’m currently doing a lot of React, but I sure do like Svelte
